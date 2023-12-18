@@ -39,6 +39,8 @@ I work daily with all the data science-related Python packages/libraries such as
 - Flask
 - Reflex
 
+I have a full understanding and experience working with complex machine learning models used in the field of pneumology to make prediagnosis of diseases such as pulmonary fibrosis or COPD, in the projects developed by my company whose code I cannot share in this portfolio due to confidentiality.
+
 I also have experience deploying projects to the public (data science-related or not), ranging from web to mobile apps, controling the full cycle of the project's life. Specifically, in the [rety.pe](https://github.com/lopezrbn/retype) project I deployed a web app for a browser game where I took charge of:
 
 - Development of the web app as UI
@@ -55,8 +57,6 @@ I also have experience deploying projects to the public (data science-related or
    - Design of all the SQL queries needed to serve the data to the web app.
 - Use of an open-source dictionary API to check the introduced words
    - Credits to [Free Dictionary API](https://dictionaryapi.dev/)
-
-I have a full understanding and experience working with complex machine learning models used in the field of pneumology to make prediagnosis of diseases such as pulmonary fibrosis or COPD, in the projects developed by my company whose code I cannot share in this portfolio due to confidentiality.
 
 
 
