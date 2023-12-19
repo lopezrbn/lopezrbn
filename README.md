@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 ## About me
 
 I am Rubén López, a Data Scientist and ex-CEO of [eKuore: mobile health devices](https://www.ekuore.com/).
