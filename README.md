@@ -44,7 +44,7 @@ I also have experience deploying projects to the public (data science-related or
    - Development of the full control logic of the game using Python.
 - Deployment of the web page via self-hosting in a VPS
    - Configuration of the server with a stack using Linux (Ubuntu 23.10), Nginx, MySQL and Python.
-   - Configuration of Nginx as a web server using reverse proxy and WebSockets to communicate front with back-end.
+   - Configuration of Nginx as a web server using reverse proxy and WebSocket to communicate front with back-end.
    - Configuration of Reflex as a system service to run indefinitely as a background process.
 - Creation of a database using MySQL
    - Creation of the database, designing structure, tables, columns and data types.
