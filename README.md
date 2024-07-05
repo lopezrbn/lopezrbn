@@ -7,7 +7,7 @@ This is my portfolio of the personal projects that I develop for myself as a hob
 
 ## What I have been doing in the past
 
-You can find a better resume about my background at my [LinkedIn](https://www.linkedin.com/in/lopezperezruben/) profile, but in summary, I have been the CEO of [eKuore](https://www.ekuore.com/) for the last 12 years.
+You can find a better resume about my background at my [LinkedIn](https://www.linkedin.com/in/lopezrbn/) profile, but in summary, I have been the CEO of [eKuore](https://www.linkedin.com/company/ekuoremedic/) for the last 12 years.
 
 In eKuore we developed medical devices connected to the smartphone, and we used the data collected by them to train AI-backed solutions to give doctors and patients prediagnosis on pulmonary diseases such as IPF (Idiopathic Pulmonary Fibrosis) or COPD (Chronic Obstructive Pulmonary Disease).
 
